@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Srinivasulu Ullaganti Blog</title>
+        <link>https://srinivasulla.github.io/blog</link>
+        <description>Srinivasulu Ullaganti Blog</description>
+        <lastBuildDate>Fri, 28 Mar 2025 05:05:36 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[AboutMe]]></title>
+            <link>https://srinivasulla.github.io/blog/AboutMe</link>
+            <guid>AboutMe</guid>
+            <pubDate>Fri, 28 Mar 2025 05:05:36 GMT</pubDate>
+            <description><![CDATA[Hi, I'm Srinivasulu Ullaganti]]></description>
+        </item>
+    </channel>
+</rss>
